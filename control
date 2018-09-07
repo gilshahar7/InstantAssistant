@@ -1,7 +1,7 @@
 Package: com.gilshahar7.instantassistant
 Name: InstantAssistant
 Depends: mobilesubstrate
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Description: Always launches the Google Assistant in "listening mode"
 Maintainer: gilshahar7
