@@ -12,3 +12,5 @@ To enable it on the lockscreen with activator press the little "i" next to Assis
 Requested by /u/xDeepS from /r/TweakBounty.
 
 No options to configure.
+
+Depiction page: https://repo.packix.com/package/com.gilshahar7.instantassistant/
